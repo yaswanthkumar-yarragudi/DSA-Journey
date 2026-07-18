@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0004-median-of-two-sorted-arrays) |
 | [0605-can-place-flowers](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0605-can-place-flowers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0004-median-of-two-sorted-arrays) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
