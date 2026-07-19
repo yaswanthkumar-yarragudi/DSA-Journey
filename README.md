@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0605-can-place-flowers) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Math
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0151-reverse-words-in-a-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Binary Search
 |  |
 | ------- |
@@ -40,4 +42,12 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0001-two-sum) |
+## Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
