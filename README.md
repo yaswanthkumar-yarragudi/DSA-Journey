@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0605-can-place-flowers](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0605-can-place-flowers) |
+| [1260-shift-2d-grid](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Greedy
 |  |
@@ -62,4 +63,12 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0014-longest-common-prefix) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1260-shift-2d-grid) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
