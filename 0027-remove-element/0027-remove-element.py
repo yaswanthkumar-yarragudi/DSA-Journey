@@ -9,5 +9,5 @@ class Solution:
             else:
                 i+=1
             n = len(nums)
-        return len(nums)
+        return n
             
