@@ -13,12 +13,14 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0605-can-place-flowers) |
 | [1260-shift-2d-grid](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0605-can-place-flowers) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Math
