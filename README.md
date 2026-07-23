@@ -16,6 +16,7 @@
 | [0283-move-zeroes](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0605-can-place-flowers) |
+| [0724-find-pivot-index](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1260-shift-2d-grid) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -114,6 +115,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0724-find-pivot-index) |
 ## Sorting
 |  |
 | ------- |
