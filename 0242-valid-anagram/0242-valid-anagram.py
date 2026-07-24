@@ -4,14 +4,9 @@ class Solution:
         n = len(s)
         if n != len(t):
             return False
-        
-        s = sorted(s)
-        t = sorted(t)
 
-        left = 0
-
-        for i in range(n):
-            if s[left] != t[left]:
+        for i in set(s):
+            if s.count(i) != t.count(i):
                 return False
-            left+=1
+
         return True
