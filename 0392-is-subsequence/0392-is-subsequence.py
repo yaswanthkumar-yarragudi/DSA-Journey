@@ -1,19 +1,23 @@
 class Solution:
     def isSubsequence(self, s: str, t: str) -> bool:
-        n = len(s)
-
-        if n<=0:
+        if s==t or not s:
             return True
+        
+        n1 = len(s)
+        n2 = len(t)
 
-        st = 0
-        count = 0
+        if n1>n2 or not(t):
+            return False
 
-        for i in t:
-            if count<n and i == s[st]:
-                st+=1
-                count+=1
-                if count == n:
-                    return True
+        fast = 0
+        res = ""
 
-        return False
-
+        for i in range(n2):
+            if fast <n1 and s[fast] == t[i]:
+                res+=s[fast]
+                fast+=1
+        if res != s:
+            return False
+        else:
+            return True
+        
