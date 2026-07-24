@@ -67,6 +67,7 @@
 | [0014-longest-common-prefix](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0392-is-subsequence) |
@@ -90,6 +91,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0242-valid-anagram) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Stack
 |  |
@@ -128,6 +130,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1679-max-number-of-k-sum-pairs) |
 <!---LeetCode Topics End-->
