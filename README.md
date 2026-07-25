@@ -33,6 +33,7 @@
 | [0605-can-place-flowers](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0680-valid-palindrome-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Math
 |  |
 | ------- |
@@ -85,6 +86,7 @@
 | [0709-to-lower-case](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0771-jewels-and-stones) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1768-merge-strings-alternately) |
 | [1859-sorting-the-sentence](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1859-sorting-the-sentence) |
@@ -158,6 +160,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1221-split-a-string-in-balanced-strings) |
 ## String Matching
 |  |
 | ------- |
