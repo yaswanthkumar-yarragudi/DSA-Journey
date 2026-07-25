@@ -80,6 +80,7 @@
 | [0520-detect-capital](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0680-valid-palindrome-ii) |
+| [0709-to-lower-case](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0771-jewels-and-stones) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1768-merge-strings-alternately](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1768-merge-strings-alternately) |
