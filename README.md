@@ -77,6 +77,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0443-string-compression) |
+| [0520-detect-capital](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0771-jewels-and-stones) |
