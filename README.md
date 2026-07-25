@@ -41,6 +41,7 @@
 | [0013-roman-to-integer](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0066-plus-one) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/3536-maximum-product-of-two-digits) |
 ## Number Theory
 |  |
 | ------- |
@@ -156,6 +157,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1859-sorting-the-sentence](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1859-sorting-the-sentence) |
+| [3536-maximum-product-of-two-digits](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/3536-maximum-product-of-two-digits) |
 ## Queue
 |  |
 | ------- |
