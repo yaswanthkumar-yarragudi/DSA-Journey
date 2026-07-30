@@ -12,6 +12,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -57,6 +58,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0151-reverse-words-in-a-string) |
@@ -122,11 +124,13 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0844-backspace-string-compare](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Trie
 |  |
@@ -144,6 +148,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0392-is-subsequence) |
 ## Enumeration
