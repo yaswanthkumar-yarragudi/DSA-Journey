@@ -1,7 +1,7 @@
 class Solution:
     def countSubstrings(self, s: str) -> int:
         n = len(s)
-        a=[]
+        count =0
 
         for i in range(n):
             word = ''
@@ -9,5 +9,5 @@ class Solution:
                 word = word+ s[j]
 
                 if word ==word[::-1]:
-                    a.append(word)
-        return len(a)
+                    count+=1
+        return count
