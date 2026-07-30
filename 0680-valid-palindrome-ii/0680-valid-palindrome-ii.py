@@ -1,4 +1,11 @@
 class Solution:
+    def check(self,l, r, s):
+        while l < r:
+            if s[l] != s[r]:
+                return False
+            l += 1
+            r -= 1
+        return True
 
     def validPalindrome(self, s: str) -> bool:
         left = 0
@@ -9,9 +16,7 @@ class Solution:
                 left+=1
                 right-=1
             else:
-                p1 = s[left:right]
-                p2 = s[left+1:right+1]
-                return p1 == p1[::-1] or p2 ==p2[::-1]
+                return self.check(left + 1, right, s) or self.check(left, right - 1, s)
                 
         return True
 
