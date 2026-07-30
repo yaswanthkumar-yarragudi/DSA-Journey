@@ -3,11 +3,16 @@ class Solution:
         n = len(s)
         count =0
 
+        def check(left,  right):
+            count = 0
+            while left>=0 and right<n and s[left] == s[right]:
+                count+=1
+                left-=1
+                right+=1
+            return count
+        
         for i in range(n):
-            word = ''
-            for j in range(i,n):
-                word = word+ s[j]
+            count+=check (i,i)
+            count+=check(i,i+1)
 
-                if word ==word[::-1]:
-                    count+=1
         return count
