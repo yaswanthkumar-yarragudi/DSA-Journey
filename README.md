@@ -20,6 +20,7 @@
 | [0238-product-of-array-except-self](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0334-increasing-triplet-subsequence) |
+| [0486-predict-the-winner](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0486-predict-the-winner) |
 | [0605-can-place-flowers](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
@@ -44,6 +45,7 @@
 | [0009-palindrome-number](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0066-plus-one) |
+| [0486-predict-the-winner](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0486-predict-the-winner) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/3536-maximum-product-of-two-digits) |
 ## Number Theory
@@ -158,6 +160,7 @@
 | [0042-trapping-rain-water](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0392-is-subsequence) |
+| [0486-predict-the-winner](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0486-predict-the-winner) |
 | [0647-palindromic-substrings](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0647-palindromic-substrings) |
 ## Enumeration
 |  |
@@ -200,4 +203,12 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
