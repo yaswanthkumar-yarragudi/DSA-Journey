@@ -13,6 +13,7 @@
 | [0027-remove-element](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -129,6 +130,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -174,6 +176,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0486-predict-the-winner) |
