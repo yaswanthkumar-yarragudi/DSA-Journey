@@ -21,6 +21,7 @@
 | [0238-product-of-array-except-self](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0334-increasing-triplet-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0486-predict-the-winner](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0486-predict-the-winner) |
 | [0605-can-place-flowers](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0724-find-pivot-index) |
@@ -74,6 +75,7 @@
 | [0283-move-zeroes](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -120,6 +122,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -133,6 +136,7 @@
 | [0202-happy-number](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0771-jewels-and-stones) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -186,6 +190,7 @@
 | [0075-sort-colors](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1679-max-number-of-k-sum-pairs) |
