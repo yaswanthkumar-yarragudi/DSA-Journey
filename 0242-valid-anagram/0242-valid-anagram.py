@@ -4,9 +4,14 @@ class Solution:
         n = len(s)
         if n != len(t):
             return False
-
-        for i in set(s):
-            if s.count(i) != t.count(i):
-                return False
-
-        return True
+        def check(word):
+            freq = {}
+            for l in word:
+                if l in freq:
+                    freq[l]+=1
+                else:
+                    freq[l] =1
+            return freq
+        s1 = check(s)
+        t1 = check(t)
+        return s1 == t1
