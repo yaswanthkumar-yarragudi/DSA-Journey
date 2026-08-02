@@ -46,6 +46,7 @@
 | [0009-palindrome-number](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -68,6 +69,7 @@
 | [0125-valid-palindrome](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0345-reverse-vowels-of-a-string) |
@@ -127,6 +129,7 @@
 | [0001-two-sum](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0771-jewels-and-stones) |
