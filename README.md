@@ -17,6 +17,7 @@
 | [0075-sort-colors](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0334-increasing-triplet-subsequence) |
@@ -130,6 +131,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0771-jewels-and-stones) |
@@ -182,6 +184,7 @@
 | ------- |
 | [0015-3sum](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
