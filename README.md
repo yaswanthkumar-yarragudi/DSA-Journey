@@ -31,6 +31,7 @@
 | [0877-stone-game](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1260-shift-2d-grid) |
+| [1406-stone-game-iii](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -54,6 +55,7 @@
 | [0202-happy-number](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/3536-maximum-product-of-two-digits) |
 ## Number Theory
@@ -183,6 +185,7 @@
 | [0486-predict-the-winner](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0486-predict-the-winner) |
 | [0647-palindromic-substrings](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1406-stone-game-iii) |
 ## Enumeration
 |  |
 | ------- |
@@ -239,8 +242,17 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1406-stone-game-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0389-find-the-difference) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
