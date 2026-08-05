@@ -60,6 +60,7 @@
 | [0486-predict-the-winner](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1406-stone-game-iii) |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2485-find-the-pivot-integer](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/2485-find-the-pivot-integer) |
 | [3536-maximum-product-of-two-digits](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/3536-maximum-product-of-two-digits) |
@@ -193,6 +194,7 @@
 | [0647-palindromic-substrings](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1406-stone-game-iii) |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 ## Enumeration
 |  |
 | ------- |
@@ -278,4 +280,8 @@
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/3310-remove-methods-from-project) |
+## Combinatorics
+|  |
+| ------- |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 <!---LeetCode Topics End-->
