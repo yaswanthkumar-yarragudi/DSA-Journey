@@ -53,6 +53,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0013-roman-to-integer) |
+| [0060-permutation-sequence](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0486-predict-the-winner) |
@@ -243,6 +244,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0060-permutation-sequence) |
 | [0486-predict-the-winner](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
