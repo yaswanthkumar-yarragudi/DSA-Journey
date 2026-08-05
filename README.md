@@ -16,6 +16,7 @@
 | [0053-maximum-subarray](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0169-majority-element) |
@@ -185,6 +186,7 @@
 | [0005-longest-palindromic-substring](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0486-predict-the-winner) |
