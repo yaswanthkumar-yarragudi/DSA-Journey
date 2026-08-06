@@ -18,6 +18,7 @@
 | [0075-sort-colors](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0149-max-points-on-a-line](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0149-max-points-on-a-line) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0217-contains-duplicate) |
@@ -58,6 +59,7 @@
 | [0013-roman-to-integer](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0013-roman-to-integer) |
 | [0060-permutation-sequence](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0066-plus-one) |
+| [0149-max-points-on-a-line](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0486-predict-the-winner) |
 | [0812-largest-triangle-area](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0812-largest-triangle-area) |
@@ -152,6 +154,7 @@
 | [0001-two-sum](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0013-roman-to-integer) |
+| [0149-max-points-on-a-line](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0217-contains-duplicate) |
@@ -294,10 +297,19 @@
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0149-max-points-on-a-line) |
 | [0812-largest-triangle-area](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0883-projection-area-of-3d-shapes) |
 ## Polygons
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0812-largest-triangle-area) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
