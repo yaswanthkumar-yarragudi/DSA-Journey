@@ -52,6 +52,7 @@
 | [0680-valid-palindrome-ii](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0680-valid-palindrome-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1221-split-a-string-in-balanced-strings) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Math
 |  |
 | ------- |
@@ -71,11 +72,13 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2485-find-the-pivot-integer](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/2485-find-the-pivot-integer) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/3536-maximum-product-of-two-digits) |
 ## Number Theory
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -135,6 +138,7 @@
 | [1768-merge-strings-alternately](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1768-merge-strings-alternately) |
 | [1859-sorting-the-sentence](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1859-sorting-the-sentence) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/2255-count-prefixes-of-a-given-string) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Binary Search
 |  |
@@ -314,4 +318,8 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0149-max-points-on-a-line) |
+## Backtracking
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
