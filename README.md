@@ -35,6 +35,7 @@
 | [0877-stone-game](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0883-projection-area-of-3d-shapes) |
 | [0977-squares-of-a-sorted-array](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1004-max-consecutive-ones-iii) |
 | [1260-shift-2d-grid](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -152,6 +153,7 @@
 | [0035-search-insert-position](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
+| [1004-max-consecutive-ones-iii](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -226,6 +228,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1004-max-consecutive-ones-iii) |
 | [2485-find-the-pivot-integer](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/2485-find-the-pivot-integer) |
 ## Sorting
 |  |
@@ -267,6 +270,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Recursion
 |  |
