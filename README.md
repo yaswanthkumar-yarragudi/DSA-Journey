@@ -73,6 +73,7 @@
 | [0812-largest-triangle-area](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0883-projection-area-of-3d-shapes) |
+| [1006-clumsy-factorial](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1006-clumsy-factorial) |
 | [1140-stone-game-ii](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1406-stone-game-iii) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
@@ -186,6 +187,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0844-backspace-string-compare](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0844-backspace-string-compare) |
+| [1006-clumsy-factorial](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1006-clumsy-factorial) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -205,6 +207,7 @@
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0844-backspace-string-compare) |
+| [1006-clumsy-factorial](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1006-clumsy-factorial) |
 | [1260-shift-2d-grid](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1260-shift-2d-grid) |
 ## Dynamic Programming
 |  |
