@@ -70,6 +70,7 @@
 | [0223-rectangle-area](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0509-fibonacci-number) |
 | [0812-largest-triangle-area](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0812-largest-triangle-area) |
@@ -291,6 +292,7 @@
 | [0060-permutation-sequence](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0509-fibonacci-number) |
 ## Game Theory
@@ -304,6 +306,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0389-find-the-difference) |
 ## Minimax
 |  |
