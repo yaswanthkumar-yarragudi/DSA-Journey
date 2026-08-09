@@ -71,6 +71,7 @@
 | [0231-power-of-two](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0367-valid-perfect-square) |
 | [0486-predict-the-winner](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0509-fibonacci-number) |
 | [0812-largest-triangle-area](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0812-largest-triangle-area) |
@@ -162,6 +163,7 @@
 | [0035-search-insert-position](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0367-valid-perfect-square) |
 | [1004-max-consecutive-ones-iii](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
