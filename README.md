@@ -65,6 +65,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0066-plus-one) |
 | [0149-max-points-on-a-line](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0149-max-points-on-a-line) |
@@ -297,6 +298,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0326-power-of-three) |
