@@ -80,6 +80,7 @@
 | [1006-clumsy-factorial](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1006-clumsy-factorial) |
 | [1140-stone-game-ii](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1510-stone-game-iv) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2485-find-the-pivot-integer](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/2485-find-the-pivot-integer) |
@@ -231,6 +232,7 @@
 | [0877-stone-game](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1510-stone-game-iv) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Enumeration
@@ -304,6 +306,7 @@
 | [0877-stone-game](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1510-stone-game-iv) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -315,11 +318,13 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1510-stone-game-iv) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -363,4 +368,12 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0509-fibonacci-number) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
