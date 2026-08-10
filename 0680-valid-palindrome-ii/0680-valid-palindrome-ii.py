@@ -1,23 +1,21 @@
 class Solution:
-    def check(self,l, r, s):
-        while l < r:
-            if s[l] != s[r]:
+    def check(self,l,r,s):
+        while l<r:
+            if s[l] !=s[r]:
                 return False
-            l += 1
-            r -= 1
+            l+=1
+            r-=1
         return True
+
 
     def validPalindrome(self, s: str) -> bool:
-        left = 0
-        right = len(s)-1
+        
+        l = 0
+        r = len(s)-1
 
-        while left<right:
-            if s[left] == s[right]:
-                left+=1
-                right-=1
-            else:
-                return self.check(left + 1, right, s) or self.check(left, right - 1, s)
-                
+        while l<r:
+            if s[l] != s[r]:
+                return self.check(l+1,r,s) or self.check(l,r-1,s)
+            l+=1
+            r-=1
         return True
-
-
