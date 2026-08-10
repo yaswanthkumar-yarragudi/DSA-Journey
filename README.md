@@ -16,6 +16,7 @@
 | [0053-maximum-subarray](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0149-max-points-on-a-line](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0149-max-points-on-a-line) |
@@ -316,6 +317,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0389-find-the-difference) |
@@ -369,6 +371,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0078-subsets) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Memoization
 |  |
