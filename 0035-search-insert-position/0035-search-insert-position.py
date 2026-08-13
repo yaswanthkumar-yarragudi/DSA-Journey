@@ -1,8 +1,18 @@
 class Solution:
-    def searchInsert(self, nums: List[int], val: int) -> int:
+    def searchInsert(self, nums: List[int], target: int) -> int:
         n = len(nums)
+        l = 0
+        r = n-1 
 
-        for i in range(n):
-            if val<=nums[i]:
-                return i
-        return n
+        ans = n
+
+        while l<=r:
+            m = (l+r)//2
+
+            if nums[m]<target:
+                l = m+1
+            elif nums[m]>=target:
+                ans = min(ans, m)
+                r = m-1
+        return ans
+                
