@@ -72,6 +72,7 @@
 | [0050-powx-n](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0069-sqrtx) |
 | [0149-max-points-on-a-line](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0223-rectangle-area) |
@@ -170,6 +171,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
@@ -401,4 +403,8 @@
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
