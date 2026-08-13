@@ -47,6 +47,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -159,6 +160,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1768-merge-strings-alternately) |
 | [1859-sorting-the-sentence](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1859-sorting-the-sentence) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/2255-count-prefixes-of-a-given-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -391,4 +393,12 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1510-stone-game-iv) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
