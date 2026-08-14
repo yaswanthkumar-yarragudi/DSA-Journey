@@ -165,6 +165,7 @@
 | [1859-sorting-the-sentence](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1859-sorting-the-sentence) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/2255-count-prefixes-of-a-given-string) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -207,6 +208,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/3731-find-missing-elements) |
 ## Stack
 |  |
@@ -310,6 +312,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Recursion
 |  |
 | ------- |
