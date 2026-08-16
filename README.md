@@ -49,6 +49,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -65,6 +66,7 @@
 | [0680-valid-palindrome-ii](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0680-valid-palindrome-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1221-split-a-string-in-balanced-strings) |
+| [2029-stone-game-ix](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Math
@@ -94,6 +96,7 @@
 | [1510-stone-game-iv](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1510-stone-game-iv) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/2029-stone-game-ix) |
 | [2485-find-the-pivot-integer](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/2485-find-the-pivot-integer) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -297,6 +300,7 @@
 | [0169-majority-element](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1221-split-a-string-in-balanced-strings) |
+| [2029-stone-game-ix](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/2029-stone-game-ix) |
 ## String Matching
 |  |
 | ------- |
@@ -332,6 +336,7 @@
 | [1140-stone-game-ii](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/2029-stone-game-ix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -346,12 +351,14 @@
 | [1140-stone-game-ii](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/2029-stone-game-ix) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -400,6 +407,7 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
