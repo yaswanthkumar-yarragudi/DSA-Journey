@@ -16,5 +16,5 @@ class Solution:
                 else:
                     d[l] += 1
             return d
-        print(check(word1).values() ,check(word2).values())
+    
         return sorted(list(check(word1).values())) == sorted(list(check(word2).values())) and sorted(list(check(word1).keys())) == sorted(list(check(word2).keys()))
