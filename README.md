@@ -36,6 +36,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0724-find-pivot-index) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0812-largest-triangle-area](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0883-projection-area-of-3d-shapes) |
@@ -187,6 +188,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Divide and Conquer
