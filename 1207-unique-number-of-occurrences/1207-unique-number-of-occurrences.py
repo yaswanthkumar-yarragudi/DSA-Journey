@@ -8,5 +8,5 @@ class Solution:
                 di[nums[i]] = 1
             else:
                 di[nums[i]] += 1
-        print(list(di.values()),list(set(di.values())))
+        
         return sorted(list(di.values()))==sorted(list(set(di.values())))
