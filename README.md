@@ -171,6 +171,7 @@
 | [0844-backspace-string-compare](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1657-determine-if-two-strings-are-close) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1768-merge-strings-alternately) |
@@ -335,6 +336,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1004-max-consecutive-ones-iii) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
