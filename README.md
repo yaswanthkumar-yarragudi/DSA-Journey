@@ -46,6 +46,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1386-cinema-seat-allocation](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -71,6 +72,7 @@
 | [0680-valid-palindrome-ii](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0680-valid-palindrome-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1386-cinema-seat-allocation](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -217,6 +219,7 @@
 | [0389-find-the-difference](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0771-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1207-unique-number-of-occurrences) |
+| [1386-cinema-seat-allocation](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1386-cinema-seat-allocation) |
 | [1657-determine-if-two-strings-are-close](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -361,6 +364,7 @@
 | [0231-power-of-two](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0389-find-the-difference) |
+| [1386-cinema-seat-allocation](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Minimax
 |  |
