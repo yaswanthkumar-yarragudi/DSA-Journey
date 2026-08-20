@@ -61,6 +61,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/3731-find-missing-elements) |
 ## Greedy
@@ -260,6 +261,7 @@
 | [1006-clumsy-factorial](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1006-clumsy-factorial) |
 | [1260-shift-2d-grid](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1260-shift-2d-grid) |
 | [2352-equal-row-and-column-pairs](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/2352-equal-row-and-column-pairs) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Dynamic Programming
 |  |
 | ------- |
