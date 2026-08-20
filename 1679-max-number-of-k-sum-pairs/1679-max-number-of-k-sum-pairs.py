@@ -1,14 +1,19 @@
 class Solution:
     def maxOperations(self, nums: List[int], tar: int) -> int:
-        freq = {}
+        n = len(nums)
+        nums.sort()
+        l = 0
+        r = n-1
         count = 0
-        
-        for num in nums:
-            need  = tar - num
-            if need in freq and freq[need]>0:
-                freq[need]-=1
-                count+=1
-            else:
-                freq[num] = freq.get(num,0)+1
-        return count
 
+        while l<r:
+            if nums[l] + nums[r] == tar:
+                r-=1
+                l+=1
+                count +=1
+            elif nums[l] +nums[r] > tar:
+                r-=1
+            else:
+                l+=1
+        return count
+        
