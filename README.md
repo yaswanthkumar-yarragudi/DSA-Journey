@@ -60,6 +60,7 @@
 | [2255-count-prefixes-of-a-given-string](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2352-equal-row-and-column-pairs](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/2352-equal-row-and-column-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -324,6 +325,7 @@
 | [1657-determine-if-two-strings-are-close](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1859-sorting-the-sentence](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1859-sorting-the-sentence) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/3731-find-missing-elements) |
@@ -471,4 +473,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0069-sqrtx) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
