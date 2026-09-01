@@ -107,6 +107,7 @@
 | [0877-stone-game](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0883-projection-area-of-3d-shapes) |
 | [1006-clumsy-factorial](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1006-clumsy-factorial) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1140-stone-game-ii](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1510-stone-game-iv) |
@@ -183,6 +184,7 @@
 | [0709-to-lower-case](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0844-backspace-string-compare) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -446,10 +448,12 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0149-max-points-on-a-line) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/0149-max-points-on-a-line) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/yaswanthkumar-yarragudi/DSA-Journey/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Backtracking
 |  |
 | ------- |
