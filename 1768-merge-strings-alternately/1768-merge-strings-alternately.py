@@ -1,13 +1,23 @@
 class Solution:
-    def mergeAlternately(self, s1: str, s2: str) -> str:
-        n1 = len(s1)
-        n2 = len(s2)
-        res = ''
-        n = min(n1,n2)
-        for i in range(n):
-            res+=s1[i]+s2[i]
+    def mergeAlternately(self, word1: str, word2: str) -> str:
 
-        if n1>n2:
-            return res+s1[n:]
-        else:
-            return res+s2[n:]
+        n1= len(word1) 
+        n2= len(word2) 
+
+        if n1 == 0:
+            return n2 
+        elif n2 == 0:
+            return n1
+
+        i = 0
+        ans = ''
+
+        while i<n1 or i<n2:
+            if i < n1:
+                ans+=word1[i]
+            if i < n2:
+                ans+=word2[i]
+            i+=1
+            
+        return ans
+            
