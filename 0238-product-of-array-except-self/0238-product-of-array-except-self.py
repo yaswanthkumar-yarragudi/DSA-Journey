@@ -1,27 +1,28 @@
 class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
         n = len(nums)
-        zero_product = 1
-        non_zero_product = 1
         ans = []
+        prod = 1
+        zeros = nums.count(0)
 
-        if nums.count(0)>=2:
-            return [0]*n
-        
-        for i in nums:
-            zero_product*=i
-            if i==0:
-                continue    
-            non_zero_product *= i
+        if 0 not in nums:
+            for num in nums:
+                prod*=num
 
-        for i in nums:
-            if i==0:
-                ans.append(non_zero_product)
+            for num in nums:
+                ans.append(prod//num)
+            return ans
+        else:
+            if zeros >= 2:
+                return [0]*n
             else:
-                val = zero_product//i
-                ans.append(val)
-
-
-        return ans
-
+                for num in nums:
+                    if num != 0:
+                        prod *=num
+                for num in nums:
+                    if num != 0:
+                        ans.append(0)
+                    else:
+                        ans.append(prod)
+                return ans
 
