@@ -13,8 +13,8 @@ class Solution:
                     fb[i]=1
                     n-=1
 
-                if n==0:
-                    return True
+                    if n==0:
+                        return True
         return False
         
         
